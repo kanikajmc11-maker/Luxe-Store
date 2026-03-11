@@ -2,9 +2,11 @@
 
 LuxeStore is a modern e-commerce frontend project built with React and Vite. The goal of this project was to design a clean, responsive, and production-ready storefront UI that demonstrates strong frontend development practices.
 
+
 **Features**
 
 Multi-Page Shopping Experience
+
 The application includes six complete pages that simulate a real e-commerce website:
 
 1. Home – Hero carousel, featured products, categories, and deals
@@ -21,6 +23,7 @@ The application includes six complete pages that simulate a real e-commerce webs
 
 
 **Premium UI / UX Design**
+
 A strong focus was placed on visual polish and usability.
 
 1. Elegant Cormorant Garamond display typography
@@ -35,6 +38,7 @@ A strong focus was placed on visual polish and usability.
 
 
 **Shopping Features**
+
 The project simulates a real shopping flow:
 
 1. Slide-over cart drawer with quantity controls
@@ -45,7 +49,9 @@ The project simulates a real shopping flow:
 
 4. Savings summary inside the cart
 
+
 **Smart Product Discovery**
+
 Users can easily find products through multiple tools:
 
 1.Category filtering
@@ -63,7 +69,9 @@ o	Price
 o	Rating
 o	Popularity
 
+
 **Interactive Elements**
+
 To make the interface feel dynamic and engaging:
 
 1.Hero carousel with auto-play and keyboard navigation
@@ -72,14 +80,18 @@ To make the interface feel dynamic and engaging:
 
 3.Interactive hover states across the interface
 
+
 **Getting Started**
+
 Before running the project, make sure you have:
 
 1.Node.js v18 or later
 
 2.npm v9 or later
 
+
 **Installation**
+
 Clone the project and install dependencies:
 
 1.npm install
@@ -98,7 +110,9 @@ Clone the project and install dependencies:
 
 
 **SEO Optimisation**
+
 The project is built with basic SEO best practices in mind.
+
 Features include:
 
 Unique page titles and descriptions via React Helmet

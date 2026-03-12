@@ -1,3 +1,6 @@
+<img width="1343" height="629" alt="image" src="https://github.com/user-attachments/assets/5818605a-ae9f-416a-9a0d-423e9954d73d" />
+
+
 # LuxeStore – Premium Fashion & Lifestyle E-Commerce
 
 A production-grade e-commerce frontend built with **Vite + React**, designed for portfolio showcase. Clean, modern, SEO-friendly and fully responsive.

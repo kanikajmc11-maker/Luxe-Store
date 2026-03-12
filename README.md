@@ -4,7 +4,7 @@ A production-grade e-commerce frontend built with **Vite + React**, designed for
 
 ---
 
-## ✨ Features
+##  Features
 
 - **6 Pages**: Home, Shop, Product Detail, Wishlist, About, Contact
 - **SEO Ready**: React Helmet Async, semantic HTML, meta tags, robots.txt, sitemap support
@@ -21,7 +21,7 @@ A production-grade e-commerce frontend built with **Vite + React**, designed for
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -45,7 +45,7 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 luxe-store/
@@ -87,7 +87,7 @@ luxe-store/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 All design tokens (colours, spacing, fonts, shadows) live in `src/index.css` as CSS custom properties:
 
@@ -100,13 +100,13 @@ All design tokens (colours, spacing, fonts, shadows) live in `src/index.css` as 
 
 ---
 
-## 🛍️ Adding Products
+##  Adding Products
 
 All product data is in `src/data/products.js`. Add new products to the `products` array following the existing schema. Images use Unsplash URLs — replace with your own for production.
 
 ---
 
-## 📦 Key Dependencies
+##  Key Dependencies
 
 | Package | Purpose |
 |---------|---------|
@@ -116,7 +116,7 @@ All product data is in `src/data/products.js`. Add new products to the `products
 
 ---
 
-## 🔧 Customisation Tips
+##  Customisation Tips
 
 1. **Change brand name**: Search & replace `LuxeStore` across all files
 2. **Update colours**: Edit `--primary` and `--accent` in `src/index.css`
@@ -126,7 +126,7 @@ All product data is in `src/data/products.js`. Add new products to the `products
 
 ---
 
-## 📸 Pages Overview
+##  Pages Overview
 
 | Page | Route | Description |
 |------|-------|-------------|
@@ -139,7 +139,7 @@ All product data is in `src/data/products.js`. Add new products to the `products
 
 ---
 
-## 🌐 SEO
+##  SEO
 
 - Unique `<title>` and `<meta name="description">` on every page via `react-helmet-async`
 - `<link rel="canonical">` on all pages
@@ -149,7 +149,3 @@ All product data is in `src/data/products.js`. Add new products to the `products
 - Proper `aria-label` attributes on interactive elements
 - Lazy loading images with `loading="lazy"`
 - `alt` text on all images
-
----
-
-Built with ❤️ in India
